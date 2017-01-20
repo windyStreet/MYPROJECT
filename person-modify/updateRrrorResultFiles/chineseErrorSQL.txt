@@ -1,0 +1,168 @@
+{"updateresult": "update fail", "id": "f245507e64b848aa85c07fe0c2aaa549"}
+{"updateresult": "update fail", "id": "f245507e64b848aa85c07fe0c2aaa549", "cardno": "410105197901271744"}
+{"updateresult": "update fail", "id": "f245507e64b848aa85c07fe0c2aaa549"}
+{"updateresult": "update fail", "id": "f245507e64b848aa85c07fe0c2aaa549", "cardno": "410105197901271744"}
+{"updateresult": "update fail", "id": "f245507e64b848aa85c07fe0c2aaa549"}
+{"updateresult": "update fail", "id": "f245507e64b848aa85c07fe0c2aaa549", "cardno": "410105197901271744"}
+{"updateresult": "update fail", "id": "d1d2a0400f324ea880b61853f8132064"}
+{"updateresult": "update fail", "id": "d1d2a0400f324ea880b61853f8132064", "cardno": "410183198602230022"}
+{"updateresult": "update fail", "id": "d1d2a0400f324ea880b61853f8132064"}
+{"updateresult": "update fail", "id": "d1d2a0400f324ea880b61853f8132064", "cardno": "410183198602230022"}
+{"updateresult": "update fail", "id": "d1d2a0400f324ea880b61853f8132064"}
+{"updateresult": "update fail", "id": "d1d2a0400f324ea880b61853f8132064", "cardno": "410183198602230022"}
+{"updateresult": "update fail", "id": "d8b673653feb473d80b35be89d33072b"}
+{"updateresult": "update fail", "id": "d8b673653feb473d80b35be89d33072b", "cardno": "410182198209022124"}
+{"updateresult": "update fail", "id": "d8b673653feb473d80b35be89d33072b"}
+{"updateresult": "update fail", "id": "d8b673653feb473d80b35be89d33072b", "cardno": "410182198209022124"}
+{"updateresult": "update fail", "id": "d8b673653feb473d80b35be89d33072b"}
+{"updateresult": "update fail", "id": "d8b673653feb473d80b35be89d33072b", "cardno": "410182198209022124"}
+{"updateresult": "update fail", "id": "9758a48d6e7b46c8b70137f290ca67f0"}
+{"updateresult": "update fail", "id": "9758a48d6e7b46c8b70137f290ca67f0", "cardno": "41010419930121006X"}
+{"updateresult": "update fail", "id": "9758a48d6e7b46c8b70137f290ca67f0"}
+{"updateresult": "update fail", "id": "9758a48d6e7b46c8b70137f290ca67f0", "cardno": "41010419930121006X"}
+{"updateresult": "update fail", "id": "9758a48d6e7b46c8b70137f290ca67f0"}
+{"updateresult": "update fail", "id": "9758a48d6e7b46c8b70137f290ca67f0", "cardno": "41010419930121006X"}
+{"updateresult": "update fail", "id": "a8c42ec89d0a48e7ae5d18f7c654246a"}
+{"updateresult": "update fail", "id": "a8c42ec89d0a48e7ae5d18f7c654246a", "cardno": "410185197706102090"}
+{"updateresult": "update fail", "id": "a8c42ec89d0a48e7ae5d18f7c654246a"}
+{"updateresult": "update fail", "id": "a8c42ec89d0a48e7ae5d18f7c654246a", "cardno": "410185197706102090"}
+{"updateresult": "update fail", "id": "a8c42ec89d0a48e7ae5d18f7c654246a"}
+{"updateresult": "update fail", "id": "a8c42ec89d0a48e7ae5d18f7c654246a", "cardno": "410185197706102090"}
+{"updateresult": "update fail", "id": "43dc1037386343adb6e8bbf9f4d31acd"}
+{"updateresult": "update fail", "id": "43dc1037386343adb6e8bbf9f4d31acd", "cardno": "410182198901034922"}
+{"updateresult": "update fail", "id": "43dc1037386343adb6e8bbf9f4d31acd"}
+{"updateresult": "update fail", "id": "43dc1037386343adb6e8bbf9f4d31acd", "cardno": "410182198901034922"}
+{"updateresult": "update fail", "id": "43dc1037386343adb6e8bbf9f4d31acd"}
+{"updateresult": "update fail", "id": "43dc1037386343adb6e8bbf9f4d31acd", "cardno": "410182198901034922"}
+{"updateresult": "update fail", "id": "dace04be52834bd880bfc8fdacf7ca1c"}
+{"updateresult": "update fail", "id": "dace04be52834bd880bfc8fdacf7ca1c", "cardno": "410104199308210038"}
+{"updateresult": "update fail", "id": "dace04be52834bd880bfc8fdacf7ca1c"}
+{"updateresult": "update fail", "id": "dace04be52834bd880bfc8fdacf7ca1c", "cardno": "410104199308210038"}
+{"updateresult": "update fail", "id": "dace04be52834bd880bfc8fdacf7ca1c"}
+{"updateresult": "update fail", "id": "dace04be52834bd880bfc8fdacf7ca1c", "cardno": "410104199308210038"}
+{"updateresult": "update fail", "id": "773a1c0abf0e465c84e5d0fd076d14fc"}
+{"updateresult": "update fail", "id": "773a1c0abf0e465c84e5d0fd076d14fc", "cardno": "410105198907230059"}
+{"updateresult": "update fail", "id": "773a1c0abf0e465c84e5d0fd076d14fc"}
+{"updateresult": "update fail", "id": "773a1c0abf0e465c84e5d0fd076d14fc", "cardno": "410105198907230059"}
+{"updateresult": "update fail", "id": "773a1c0abf0e465c84e5d0fd076d14fc"}
+{"updateresult": "update fail", "id": "773a1c0abf0e465c84e5d0fd076d14fc", "cardno": "410105198907230059"}
+{"updateresult": "update fail", "id": "747f7960ff1b4520999c2c1578f98083"}
+{"updateresult": "update fail", "id": "747f7960ff1b4520999c2c1578f98083", "cardno": "410126196902062167"}
+{"updateresult": "update fail", "id": "747f7960ff1b4520999c2c1578f98083"}
+{"updateresult": "update fail", "id": "747f7960ff1b4520999c2c1578f98083", "cardno": "410126196902062167"}
+{"updateresult": "update fail", "id": "747f7960ff1b4520999c2c1578f98083"}
+{"updateresult": "update fail", "id": "747f7960ff1b4520999c2c1578f98083", "cardno": "410126196902062167"}
+{"updateresult": "update fail", "id": "f2c1940e98b34c4ab3d7750431440eb9"}
+{"updateresult": "update fail", "id": "f2c1940e98b34c4ab3d7750431440eb9", "cardno": "410124197311211521"}
+{"updateresult": "update fail", "id": "f2c1940e98b34c4ab3d7750431440eb9"}
+{"updateresult": "update fail", "id": "f2c1940e98b34c4ab3d7750431440eb9", "cardno": "410124197311211521"}
+{"updateresult": "update fail", "id": "f2c1940e98b34c4ab3d7750431440eb9"}
+{"updateresult": "update fail", "id": "f2c1940e98b34c4ab3d7750431440eb9", "cardno": "410124197311211521"}
+{"updateresult": "update fail", "id": "233b05d7fd914ab882afe154a857fb22"}
+{"updateresult": "update fail", "id": "233b05d7fd914ab882afe154a857fb22", "cardno": "410126197208174120"}
+{"updateresult": "update fail", "id": "233b05d7fd914ab882afe154a857fb22"}
+{"updateresult": "update fail", "id": "233b05d7fd914ab882afe154a857fb22", "cardno": "410126197208174120"}
+{"updateresult": "update fail", "id": "233b05d7fd914ab882afe154a857fb22"}
+{"updateresult": "update fail", "id": "233b05d7fd914ab882afe154a857fb22", "cardno": "410126197208174120"}
+{"updateresult": "update fail", "id": "a7c0b7a81b164e8eac806a75b377af75"}
+{"updateresult": "update fail", "id": "a7c0b7a81b164e8eac806a75b377af75", "cardno": "410181196204050518"}
+{"updateresult": "update fail", "id": "a7c0b7a81b164e8eac806a75b377af75"}
+{"updateresult": "update fail", "id": "a7c0b7a81b164e8eac806a75b377af75", "cardno": "410181196204050518"}
+{"updateresult": "update fail", "id": "a7c0b7a81b164e8eac806a75b377af75"}
+{"updateresult": "update fail", "id": "a7c0b7a81b164e8eac806a75b377af75", "cardno": "410181196204050518"}
+{"updateresult": "update fail", "id": "7d634e97eb6146ffaf9fadb26204fcb6"}
+{"updateresult": "update fail", "id": "7d634e97eb6146ffaf9fadb26204fcb6", "cardno": "410126197706260339"}
+{"updateresult": "update fail", "id": "7d634e97eb6146ffaf9fadb26204fcb6"}
+{"updateresult": "update fail", "id": "7d634e97eb6146ffaf9fadb26204fcb6", "cardno": "410126197706260339"}
+{"updateresult": "update fail", "id": "7d634e97eb6146ffaf9fadb26204fcb6"}
+{"updateresult": "update fail", "id": "7d634e97eb6146ffaf9fadb26204fcb6", "cardno": "410126197706260339"}
+{"updateresult": "update fail", "id": "292a92e4be2745958053fce61bc4d9db"}
+{"updateresult": "update fail", "id": "292a92e4be2745958053fce61bc4d9db", "cardno": "410183198410023029"}
+{"updateresult": "update fail", "id": "292a92e4be2745958053fce61bc4d9db"}
+{"updateresult": "update fail", "id": "292a92e4be2745958053fce61bc4d9db", "cardno": "410183198410023029"}
+{"updateresult": "update fail", "id": "292a92e4be2745958053fce61bc4d9db"}
+{"updateresult": "update fail", "id": "292a92e4be2745958053fce61bc4d9db", "cardno": "410183198410023029"}
+{"updateresult": "update fail", "id": "241a89ae02834b4ab81c9c024409ecc1"}
+{"updateresult": "update fail", "id": "241a89ae02834b4ab81c9c024409ecc1", "cardno": "41018519800521203X"}
+{"updateresult": "update fail", "id": "241a89ae02834b4ab81c9c024409ecc1"}
+{"updateresult": "update fail", "id": "241a89ae02834b4ab81c9c024409ecc1", "cardno": "41018519800521203X"}
+{"updateresult": "update fail", "id": "241a89ae02834b4ab81c9c024409ecc1"}
+{"updateresult": "update fail", "id": "241a89ae02834b4ab81c9c024409ecc1", "cardno": "41018519800521203X"}
+{"updateresult": "update fail", "id": "13a16ef853d64c41920fd0344382d991"}
+{"updateresult": "update fail", "id": "13a16ef853d64c41920fd0344382d991", "cardno": "410183198307176510"}
+{"updateresult": "update fail", "id": "13a16ef853d64c41920fd0344382d991"}
+{"updateresult": "update fail", "id": "13a16ef853d64c41920fd0344382d991", "cardno": "410183198307176510"}
+{"updateresult": "update fail", "id": "13a16ef853d64c41920fd0344382d991"}
+{"updateresult": "update fail", "id": "13a16ef853d64c41920fd0344382d991", "cardno": "410183198307176510"}
+{"updateresult": "update fail", "id": "3bcf380dc2cd445790d891173139f9dd"}
+{"updateresult": "update fail", "id": "3bcf380dc2cd445790d891173139f9dd", "cardno": "410182199003105009"}
+{"updateresult": "update fail", "id": "3bcf380dc2cd445790d891173139f9dd"}
+{"updateresult": "update fail", "id": "3bcf380dc2cd445790d891173139f9dd", "cardno": "410182199003105009"}
+{"updateresult": "update fail", "id": "3bcf380dc2cd445790d891173139f9dd"}
+{"updateresult": "update fail", "id": "3bcf380dc2cd445790d891173139f9dd", "cardno": "410182199003105009"}
+{"updateresult": "update fail", "id": "9d00c1ff20bc4835ad8845e8a29090ce"}
+{"updateresult": "update fail", "id": "9d00c1ff20bc4835ad8845e8a29090ce", "cardno": "410106198209280047"}
+{"updateresult": "update fail", "id": "9d00c1ff20bc4835ad8845e8a29090ce"}
+{"updateresult": "update fail", "id": "9d00c1ff20bc4835ad8845e8a29090ce", "cardno": "410106198209280047"}
+{"updateresult": "update fail", "id": "9d00c1ff20bc4835ad8845e8a29090ce"}
+{"updateresult": "update fail", "id": "9d00c1ff20bc4835ad8845e8a29090ce", "cardno": "410106198209280047"}
+{"updateresult": "update fail", "id": "91bc47981c6947c08bd3f6ec0772e8d7"}
+{"updateresult": "update fail", "id": "91bc47981c6947c08bd3f6ec0772e8d7", "cardno": "410185198204266014"}
+{"updateresult": "update fail", "id": "91bc47981c6947c08bd3f6ec0772e8d7"}
+{"updateresult": "update fail", "id": "91bc47981c6947c08bd3f6ec0772e8d7", "cardno": "410185198204266014"}
+{"updateresult": "update fail", "id": "91bc47981c6947c08bd3f6ec0772e8d7"}
+{"updateresult": "update fail", "id": "91bc47981c6947c08bd3f6ec0772e8d7", "cardno": "410185198204266014"}
+{"updateresult": "update fail", "id": "808bc6b65a174518895c0adc6372fd18"}
+{"updateresult": "update fail", "id": "808bc6b65a174518895c0adc6372fd18", "cardno": "410181197901066018"}
+{"updateresult": "update fail", "id": "808bc6b65a174518895c0adc6372fd18"}
+{"updateresult": "update fail", "id": "808bc6b65a174518895c0adc6372fd18", "cardno": "410181197901066018"}
+{"updateresult": "update fail", "id": "808bc6b65a174518895c0adc6372fd18"}
+{"updateresult": "update fail", "id": "808bc6b65a174518895c0adc6372fd18", "cardno": "410181197901066018"}
+{"updateresult": "update fail", "id": "789a76b9c6124ef196cf17e1121c4bbb"}
+{"updateresult": "update fail", "id": "789a76b9c6124ef196cf17e1121c4bbb", "cardno": "410121197503172070"}
+{"updateresult": "update fail", "id": "789a76b9c6124ef196cf17e1121c4bbb"}
+{"updateresult": "update fail", "id": "789a76b9c6124ef196cf17e1121c4bbb", "cardno": "410121197503172070"}
+{"updateresult": "update fail", "id": "789a76b9c6124ef196cf17e1121c4bbb"}
+{"updateresult": "update fail", "id": "789a76b9c6124ef196cf17e1121c4bbb", "cardno": "410121197503172070"}
+{"updateresult": "update fail", "id": "29bcae3ba184492f8f8db8bc2eaa757f"}
+{"updateresult": "update fail", "id": "29bcae3ba184492f8f8db8bc2eaa757f", "cardno": "410103198706050067"}
+{"updateresult": "update fail", "id": "29bcae3ba184492f8f8db8bc2eaa757f"}
+{"updateresult": "update fail", "id": "29bcae3ba184492f8f8db8bc2eaa757f", "cardno": "410103198706050067"}
+{"updateresult": "update fail", "id": "29bcae3ba184492f8f8db8bc2eaa757f"}
+{"updateresult": "update fail", "id": "29bcae3ba184492f8f8db8bc2eaa757f", "cardno": "410103198706050067"}
+{"updateresult": "update fail", "id": "8c3b2819fb47400cb0ff21c880c24a95"}
+{"updateresult": "update fail", "id": "8c3b2819fb47400cb0ff21c880c24a95", "cardno": "410102196402102547"}
+{"updateresult": "update fail", "id": "8c3b2819fb47400cb0ff21c880c24a95"}
+{"updateresult": "update fail", "id": "8c3b2819fb47400cb0ff21c880c24a95", "cardno": "410102196402102547"}
+{"updateresult": "update fail", "id": "8c3b2819fb47400cb0ff21c880c24a95"}
+{"updateresult": "update fail", "id": "8c3b2819fb47400cb0ff21c880c24a95", "cardno": "410102196402102547"}
+{"updateresult": "update fail", "id": "876632cf5db5492e863fa73ce75986c9"}
+{"updateresult": "update fail", "id": "876632cf5db5492e863fa73ce75986c9", "cardno": "410184198905016943"}
+{"updateresult": "update fail", "id": "876632cf5db5492e863fa73ce75986c9"}
+{"updateresult": "update fail", "id": "876632cf5db5492e863fa73ce75986c9", "cardno": "410184198905016943"}
+{"updateresult": "update fail", "id": "876632cf5db5492e863fa73ce75986c9"}
+{"updateresult": "update fail", "id": "876632cf5db5492e863fa73ce75986c9", "cardno": "410184198905016943"}
+{"updateresult": "update fail", "id": "a77a47c2561d4b6abe83a4d0758a3dfc"}
+{"updateresult": "update fail", "id": "a77a47c2561d4b6abe83a4d0758a3dfc", "cardno": "410181197411214102"}
+{"updateresult": "update fail", "id": "a77a47c2561d4b6abe83a4d0758a3dfc"}
+{"updateresult": "update fail", "id": "a77a47c2561d4b6abe83a4d0758a3dfc", "cardno": "410181197411214102"}
+{"updateresult": "update fail", "id": "a77a47c2561d4b6abe83a4d0758a3dfc"}
+{"updateresult": "update fail", "id": "a77a47c2561d4b6abe83a4d0758a3dfc", "cardno": "410181197411214102"}
+{"updateresult": "update fail", "id": "f6f8b87fb5b846ed974e3a3622ee0692"}
+{"updateresult": "update fail", "id": "f6f8b87fb5b846ed974e3a3622ee0692", "cardno": "410105198202015623"}
+{"updateresult": "update fail", "id": "f6f8b87fb5b846ed974e3a3622ee0692"}
+{"updateresult": "update fail", "id": "f6f8b87fb5b846ed974e3a3622ee0692", "cardno": "410105198202015623"}
+{"updateresult": "update fail", "id": "f6f8b87fb5b846ed974e3a3622ee0692"}
+{"updateresult": "update fail", "id": "f6f8b87fb5b846ed974e3a3622ee0692", "cardno": "410105198202015623"}
+{"updateresult": "update fail", "id": "e4b4a775c2124e71bf8a3e909f4e50b8"}
+{"updateresult": "update fail", "id": "e4b4a775c2124e71bf8a3e909f4e50b8", "cardno": "410122198007045372"}
+{"updateresult": "update fail", "id": "e4b4a775c2124e71bf8a3e909f4e50b8"}
+{"updateresult": "update fail", "id": "e4b4a775c2124e71bf8a3e909f4e50b8", "cardno": "410122198007045372"}
+{"updateresult": "update fail", "id": "e4b4a775c2124e71bf8a3e909f4e50b8"}
+{"updateresult": "update fail", "id": "e4b4a775c2124e71bf8a3e909f4e50b8", "cardno": "410122198007045372"}
+{"updateresult": "update fail", "id": "f478c3432d7d49ecaa57ad69837769cf"}
+{"updateresult": "update fail", "id": "f478c3432d7d49ecaa57ad69837769cf", "cardno": "410125197303260100"}
+{"updateresult": "update fail", "id": "f478c3432d7d49ecaa57ad69837769cf"}
+{"updateresult": "update fail", "id": "f478c3432d7d49ecaa57ad69837769cf", "cardno": "410125197303260100"}
+{"updateresult": "update fail", "id": "f478c3432d7d49ecaa57ad69837769cf"}
+{"updateresult": "update fail", "id": "f478c3432d7d49ecaa57ad69837769cf", "cardno": "410125197303260100"}

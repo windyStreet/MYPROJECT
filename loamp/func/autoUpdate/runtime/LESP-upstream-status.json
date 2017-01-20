@@ -1,0 +1,32 @@
+{
+  "upstream-node-count": 3,
+  "1": {
+    "last-status": "running",
+    "rebooting-count": 0,
+    "last-check-time": "2016-12-09 09:44:08",
+    "is-in-upstream": true,
+    "is-rebooting": false
+  },
+  "3": {
+    "last-status": "running",
+    "rebooting-count": 0,
+    "last-check-time": "2016-12-09 09:44:08",
+    "is-in-upstream": true,
+    "is-rebooting": false
+  },
+  "total-node-count": 4,
+  "8": {
+    "last-status": "running",
+    "rebooting-count": 0,
+    "last-check-time": "2016-12-09 09:44:08",
+    "is-in-upstream": true,
+    "is-rebooting": false
+  },
+  "4": {
+    "last-status": "dead",
+    "rebooting-count": 471,
+    "last-check-time": "2016-12-09 09:44:08",
+    "is-in-upstream": false,
+    "is-rebooting": true
+  }
+}

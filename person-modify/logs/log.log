@@ -1,0 +1,307 @@
+[ INFO]2016-12-19 17:48:57  开始person数据修改
+[DEBUG]2016-12-19 17:48:57  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 17:48:57  person4101表共计0条数据
+[ INFO]2016-12-19 17:48:57  ######################setp1############################
+[ INFO]2016-12-19 17:48:57  ######################setp2############################
+[ INFO]2016-12-19 17:51:35  开始person数据修改
+[DEBUG]2016-12-19 17:51:35  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 17:51:35  person4101表共计36条数据
+[DEBUG]2016-12-19 17:51:35  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0
+[DEBUG]2016-12-19 17:51:35  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 10
+[DEBUG]2016-12-19 17:51:36  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 20
+[DEBUG]2016-12-19 17:51:36  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 30
+[ INFO]2016-12-19 17:51:36  ######################setp1############################
+[ INFO]2016-12-19 17:51:36  person4101-0-data.txt
+[ INFO]2016-12-19 17:51:36  person4101
+[DEBUG]2016-12-19 17:51:36  exec SQL : select id,cardno,nickname from person4101 where  id = 'f245507e64b848aa85c07fe0c2aaa549' ;
+[ INFO]2016-12-19 17:52:25  开始person数据修改
+[DEBUG]2016-12-19 17:52:25  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 17:52:25  person4101表共计36条数据
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 10
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 20
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 30
+[ INFO]2016-12-19 17:52:25  ######################setp1############################
+[ INFO]2016-12-19 17:52:25  person4101-0-data.txt
+[ INFO]2016-12-19 17:52:25  person4101
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'f245507e64b848aa85c07fe0c2aaa549' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'f245507e64b848aa85c07fe0c2aaa549' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'f245507e64b848aa85c07fe0c2aaa549' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'd1d2a0400f324ea880b61853f8132064' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'd1d2a0400f324ea880b61853f8132064' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'd1d2a0400f324ea880b61853f8132064' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'd8b673653feb473d80b35be89d33072b' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'd8b673653feb473d80b35be89d33072b' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'd8b673653feb473d80b35be89d33072b' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = '5864ed0e330346adbd398c7783f438ca' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = '5864ed0e330346adbd398c7783f438ca' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = '5864ed0e330346adbd398c7783f438ca' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = '9758a48d6e7b46c8b70137f290ca67f0' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = '9758a48d6e7b46c8b70137f290ca67f0' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = '9758a48d6e7b46c8b70137f290ca67f0' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'a8c42ec89d0a48e7ae5d18f7c654246a' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'a8c42ec89d0a48e7ae5d18f7c654246a' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = 'a8c42ec89d0a48e7ae5d18f7c654246a' ;
+[DEBUG]2016-12-19 17:52:25  exec SQL : select id,cardno,nickname from person4101 where  id = '5412dcf07ea64d43a53b41dba7b5bd75' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '5412dcf07ea64d43a53b41dba7b5bd75' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '5412dcf07ea64d43a53b41dba7b5bd75' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '43dc1037386343adb6e8bbf9f4d31acd' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '43dc1037386343adb6e8bbf9f4d31acd' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '43dc1037386343adb6e8bbf9f4d31acd' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'dace04be52834bd880bfc8fdacf7ca1c' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'dace04be52834bd880bfc8fdacf7ca1c' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'dace04be52834bd880bfc8fdacf7ca1c' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '773a1c0abf0e465c84e5d0fd076d14fc' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '773a1c0abf0e465c84e5d0fd076d14fc' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '773a1c0abf0e465c84e5d0fd076d14fc' ;
+[ INFO]2016-12-19 17:52:26  person4101-10-data.txt
+[ INFO]2016-12-19 17:52:26  person4101
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '4c5de5904baa40d0bf1412cfa434599e' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '4c5de5904baa40d0bf1412cfa434599e' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '4c5de5904baa40d0bf1412cfa434599e' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '747f7960ff1b4520999c2c1578f98083' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '747f7960ff1b4520999c2c1578f98083' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '747f7960ff1b4520999c2c1578f98083' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '4c52438ffe70433390d83a274d435bfb' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '4c52438ffe70433390d83a274d435bfb' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '4c52438ffe70433390d83a274d435bfb' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'f2c1940e98b34c4ab3d7750431440eb9' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'f2c1940e98b34c4ab3d7750431440eb9' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'f2c1940e98b34c4ab3d7750431440eb9' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '233b05d7fd914ab882afe154a857fb22' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '233b05d7fd914ab882afe154a857fb22' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '233b05d7fd914ab882afe154a857fb22' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'a7c0b7a81b164e8eac806a75b377af75' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'a7c0b7a81b164e8eac806a75b377af75' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = 'a7c0b7a81b164e8eac806a75b377af75' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '7d634e97eb6146ffaf9fadb26204fcb6' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '7d634e97eb6146ffaf9fadb26204fcb6' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '7d634e97eb6146ffaf9fadb26204fcb6' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '292a92e4be2745958053fce61bc4d9db' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '292a92e4be2745958053fce61bc4d9db' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '292a92e4be2745958053fce61bc4d9db' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '6739a1aa63404b5e91d2a42c8d35a142' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '6739a1aa63404b5e91d2a42c8d35a142' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '6739a1aa63404b5e91d2a42c8d35a142' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '241a89ae02834b4ab81c9c024409ecc1' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '241a89ae02834b4ab81c9c024409ecc1' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '241a89ae02834b4ab81c9c024409ecc1' ;
+[ INFO]2016-12-19 17:52:26  person4101-20-data.txt
+[ INFO]2016-12-19 17:52:26  person4101
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '13a16ef853d64c41920fd0344382d991' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '13a16ef853d64c41920fd0344382d991' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '13a16ef853d64c41920fd0344382d991' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '3bcf380dc2cd445790d891173139f9dd' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '3bcf380dc2cd445790d891173139f9dd' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '3bcf380dc2cd445790d891173139f9dd' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '9d00c1ff20bc4835ad8845e8a29090ce' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '9d00c1ff20bc4835ad8845e8a29090ce' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '9d00c1ff20bc4835ad8845e8a29090ce' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '91bc47981c6947c08bd3f6ec0772e8d7' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '91bc47981c6947c08bd3f6ec0772e8d7' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '91bc47981c6947c08bd3f6ec0772e8d7' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '808bc6b65a174518895c0adc6372fd18' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '808bc6b65a174518895c0adc6372fd18' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '808bc6b65a174518895c0adc6372fd18' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '789a76b9c6124ef196cf17e1121c4bbb' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '789a76b9c6124ef196cf17e1121c4bbb' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '789a76b9c6124ef196cf17e1121c4bbb' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '29bcae3ba184492f8f8db8bc2eaa757f' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '29bcae3ba184492f8f8db8bc2eaa757f' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '29bcae3ba184492f8f8db8bc2eaa757f' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '8c3b2819fb47400cb0ff21c880c24a95' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '8c3b2819fb47400cb0ff21c880c24a95' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '8c3b2819fb47400cb0ff21c880c24a95' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '876632cf5db5492e863fa73ce75986c9' ;
+[DEBUG]2016-12-19 17:52:26  exec SQL : select id,cardno,nickname from person4101 where  id = '876632cf5db5492e863fa73ce75986c9' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '876632cf5db5492e863fa73ce75986c9' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'a77a47c2561d4b6abe83a4d0758a3dfc' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'a77a47c2561d4b6abe83a4d0758a3dfc' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'a77a47c2561d4b6abe83a4d0758a3dfc' ;
+[ INFO]2016-12-19 17:52:27  person4101-30-data.txt
+[ INFO]2016-12-19 17:52:27  person4101
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'f6f8b87fb5b846ed974e3a3622ee0692' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'f6f8b87fb5b846ed974e3a3622ee0692' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'f6f8b87fb5b846ed974e3a3622ee0692' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'e4b4a775c2124e71bf8a3e909f4e50b8' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'e4b4a775c2124e71bf8a3e909f4e50b8' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'e4b4a775c2124e71bf8a3e909f4e50b8' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '32271a8d0d4f4ec6b1a349f5bdf61b23' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '32271a8d0d4f4ec6b1a349f5bdf61b23' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '32271a8d0d4f4ec6b1a349f5bdf61b23' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '564f5d1e0e854b3c8c1e52c940a44c6a' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '564f5d1e0e854b3c8c1e52c940a44c6a' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '564f5d1e0e854b3c8c1e52c940a44c6a' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '746121736a354d7a853ccc027955173a' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '746121736a354d7a853ccc027955173a' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = '746121736a354d7a853ccc027955173a' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'f478c3432d7d49ecaa57ad69837769cf' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'f478c3432d7d49ecaa57ad69837769cf' ;
+[DEBUG]2016-12-19 17:52:27  exec SQL : select id,cardno,nickname from person4101 where  id = 'f478c3432d7d49ecaa57ad69837769cf' ;
+[ INFO]2016-12-19 17:52:27  ######################setp2############################
+[ INFO]2016-12-19 17:52:27  person4101-0-data.txt
+[ INFO]2016-12-19 17:52:27  person4101
+[ INFO]2016-12-19 17:52:27  person4101-10-data.txt
+[ INFO]2016-12-19 17:52:27  person4101
+[ INFO]2016-12-19 17:52:27  person4101-20-data.txt
+[ INFO]2016-12-19 17:52:27  person4101
+[ INFO]2016-12-19 17:52:27  person4101-30-data.txt
+[ INFO]2016-12-19 17:52:27  person4101
+[ INFO]2016-12-19 17:54:41  开始person数据修改
+[DEBUG]2016-12-19 17:54:45  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 17:54:46  person4101表共计36条数据
+[DEBUG]2016-12-19 17:55:02  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0
+[DEBUG]2016-12-19 17:55:39  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 10
+[DEBUG]2016-12-19 17:55:39  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 20
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 30
+[ INFO]2016-12-19 17:55:40  ######################setp1############################
+[ INFO]2016-12-19 17:55:40  person4101-0-data.txt
+[ INFO]2016-12-19 17:55:40  person4101
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'f245507e64b848aa85c07fe0c2aaa549' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'f245507e64b848aa85c07fe0c2aaa549' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'f245507e64b848aa85c07fe0c2aaa549' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'd1d2a0400f324ea880b61853f8132064' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'd1d2a0400f324ea880b61853f8132064' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'd1d2a0400f324ea880b61853f8132064' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'd8b673653feb473d80b35be89d33072b' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'd8b673653feb473d80b35be89d33072b' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'd8b673653feb473d80b35be89d33072b' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '5864ed0e330346adbd398c7783f438ca' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '5864ed0e330346adbd398c7783f438ca' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '5864ed0e330346adbd398c7783f438ca' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '9758a48d6e7b46c8b70137f290ca67f0' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '9758a48d6e7b46c8b70137f290ca67f0' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '9758a48d6e7b46c8b70137f290ca67f0' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'a8c42ec89d0a48e7ae5d18f7c654246a' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'a8c42ec89d0a48e7ae5d18f7c654246a' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'a8c42ec89d0a48e7ae5d18f7c654246a' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '5412dcf07ea64d43a53b41dba7b5bd75' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '5412dcf07ea64d43a53b41dba7b5bd75' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '5412dcf07ea64d43a53b41dba7b5bd75' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '43dc1037386343adb6e8bbf9f4d31acd' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '43dc1037386343adb6e8bbf9f4d31acd' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '43dc1037386343adb6e8bbf9f4d31acd' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'dace04be52834bd880bfc8fdacf7ca1c' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'dace04be52834bd880bfc8fdacf7ca1c' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'dace04be52834bd880bfc8fdacf7ca1c' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '773a1c0abf0e465c84e5d0fd076d14fc' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '773a1c0abf0e465c84e5d0fd076d14fc' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '773a1c0abf0e465c84e5d0fd076d14fc' ;
+[ INFO]2016-12-19 17:55:40  person4101-10-data.txt
+[ INFO]2016-12-19 17:55:40  person4101
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '4c5de5904baa40d0bf1412cfa434599e' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '4c5de5904baa40d0bf1412cfa434599e' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '4c5de5904baa40d0bf1412cfa434599e' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '747f7960ff1b4520999c2c1578f98083' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '747f7960ff1b4520999c2c1578f98083' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '747f7960ff1b4520999c2c1578f98083' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '4c52438ffe70433390d83a274d435bfb' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '4c52438ffe70433390d83a274d435bfb' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '4c52438ffe70433390d83a274d435bfb' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'f2c1940e98b34c4ab3d7750431440eb9' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'f2c1940e98b34c4ab3d7750431440eb9' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'f2c1940e98b34c4ab3d7750431440eb9' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '233b05d7fd914ab882afe154a857fb22' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '233b05d7fd914ab882afe154a857fb22' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '233b05d7fd914ab882afe154a857fb22' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'a7c0b7a81b164e8eac806a75b377af75' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'a7c0b7a81b164e8eac806a75b377af75' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = 'a7c0b7a81b164e8eac806a75b377af75' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '7d634e97eb6146ffaf9fadb26204fcb6' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '7d634e97eb6146ffaf9fadb26204fcb6' ;
+[DEBUG]2016-12-19 17:55:40  exec SQL : select id,cardno,nickname from person4101 where  id = '7d634e97eb6146ffaf9fadb26204fcb6' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '292a92e4be2745958053fce61bc4d9db' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '292a92e4be2745958053fce61bc4d9db' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '292a92e4be2745958053fce61bc4d9db' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '6739a1aa63404b5e91d2a42c8d35a142' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '6739a1aa63404b5e91d2a42c8d35a142' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '6739a1aa63404b5e91d2a42c8d35a142' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '241a89ae02834b4ab81c9c024409ecc1' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '241a89ae02834b4ab81c9c024409ecc1' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '241a89ae02834b4ab81c9c024409ecc1' ;
+[ INFO]2016-12-19 17:55:41  person4101-20-data.txt
+[ INFO]2016-12-19 17:55:41  person4101
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '13a16ef853d64c41920fd0344382d991' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '13a16ef853d64c41920fd0344382d991' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '13a16ef853d64c41920fd0344382d991' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '3bcf380dc2cd445790d891173139f9dd' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '3bcf380dc2cd445790d891173139f9dd' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '3bcf380dc2cd445790d891173139f9dd' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '9d00c1ff20bc4835ad8845e8a29090ce' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '9d00c1ff20bc4835ad8845e8a29090ce' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '9d00c1ff20bc4835ad8845e8a29090ce' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '91bc47981c6947c08bd3f6ec0772e8d7' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '91bc47981c6947c08bd3f6ec0772e8d7' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '91bc47981c6947c08bd3f6ec0772e8d7' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '808bc6b65a174518895c0adc6372fd18' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '808bc6b65a174518895c0adc6372fd18' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '808bc6b65a174518895c0adc6372fd18' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '789a76b9c6124ef196cf17e1121c4bbb' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '789a76b9c6124ef196cf17e1121c4bbb' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '789a76b9c6124ef196cf17e1121c4bbb' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '29bcae3ba184492f8f8db8bc2eaa757f' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '29bcae3ba184492f8f8db8bc2eaa757f' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '29bcae3ba184492f8f8db8bc2eaa757f' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '8c3b2819fb47400cb0ff21c880c24a95' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '8c3b2819fb47400cb0ff21c880c24a95' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '8c3b2819fb47400cb0ff21c880c24a95' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '876632cf5db5492e863fa73ce75986c9' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '876632cf5db5492e863fa73ce75986c9' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '876632cf5db5492e863fa73ce75986c9' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'a77a47c2561d4b6abe83a4d0758a3dfc' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'a77a47c2561d4b6abe83a4d0758a3dfc' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'a77a47c2561d4b6abe83a4d0758a3dfc' ;
+[ INFO]2016-12-19 17:55:41  person4101-30-data.txt
+[ INFO]2016-12-19 17:55:41  person4101
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'f6f8b87fb5b846ed974e3a3622ee0692' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'f6f8b87fb5b846ed974e3a3622ee0692' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'f6f8b87fb5b846ed974e3a3622ee0692' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'e4b4a775c2124e71bf8a3e909f4e50b8' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'e4b4a775c2124e71bf8a3e909f4e50b8' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'e4b4a775c2124e71bf8a3e909f4e50b8' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '32271a8d0d4f4ec6b1a349f5bdf61b23' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '32271a8d0d4f4ec6b1a349f5bdf61b23' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '32271a8d0d4f4ec6b1a349f5bdf61b23' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '564f5d1e0e854b3c8c1e52c940a44c6a' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '564f5d1e0e854b3c8c1e52c940a44c6a' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '564f5d1e0e854b3c8c1e52c940a44c6a' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '746121736a354d7a853ccc027955173a' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '746121736a354d7a853ccc027955173a' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = '746121736a354d7a853ccc027955173a' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'f478c3432d7d49ecaa57ad69837769cf' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'f478c3432d7d49ecaa57ad69837769cf' ;
+[DEBUG]2016-12-19 17:55:41  exec SQL : select id,cardno,nickname from person4101 where  id = 'f478c3432d7d49ecaa57ad69837769cf' ;
+[ INFO]2016-12-19 17:55:41  ######################setp2############################
+[ INFO]2016-12-19 17:55:41  person4101-0-data.txt
+[ INFO]2016-12-19 17:55:41  person4101
+[ INFO]2016-12-19 17:55:41  person4101-10-data.txt
+[ INFO]2016-12-19 17:55:41  person4101
+[ INFO]2016-12-19 17:55:41  person4101-20-data.txt
+[ INFO]2016-12-19 17:55:41  person4101
+[ INFO]2016-12-19 17:55:41  person4101-30-data.txt
+[ INFO]2016-12-19 17:55:41  person4101
+[ INFO]2016-12-19 17:56:28  开始person数据修改
+[DEBUG]2016-12-19 17:56:30  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 17:56:30  person4101表共计36条数据
+[DEBUG]2016-12-19 17:56:30  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0
+[DEBUG]2016-12-19 17:56:31  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 10
+[ INFO]2016-12-19 17:57:47  开始person数据修改
+[DEBUG]2016-12-19 17:57:47  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 17:57:47  person4101表共计36条数据
+[DEBUG]2016-12-19 17:57:47  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0
+[ INFO]2016-12-19 17:59:03  开始person数据修改
+[DEBUG]2016-12-19 17:59:06  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 17:59:06  person4101表共计36条数据
+[DEBUG]2016-12-19 17:59:06  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0
+[ INFO]2016-12-19 18:00:43  开始person数据修改
+[DEBUG]2016-12-19 18:00:45  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 18:00:45  person4101表共计36条数据
+[DEBUG]2016-12-19 18:00:45  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0
+[ INFO]2016-12-19 18:03:33  开始person数据修改
+[DEBUG]2016-12-19 18:03:33  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 18:03:33  person4101表共计36条数据
+[DEBUG]2016-12-19 18:03:33  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0
+[ INFO]2016-12-19 18:03:54  开始person数据修改
+[DEBUG]2016-12-19 18:03:54  exec SQL : select count(*) from person4101 where  nickname = '李云红' 
+[ INFO]2016-12-19 18:03:55  person4101表共计36条数据
+[DEBUG]2016-12-19 18:03:55  exec SQL : select id,cardno,nickname person4101 from person4101 where  nickname = '李云红' limit 10 offset 0

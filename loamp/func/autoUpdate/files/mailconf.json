@@ -1,0 +1,83 @@
+{
+  "insy": {
+    "SMTP": {
+      "name": "smtp.longrise.com.cn",
+      "port": "25",
+      "senderMailAccount": "yaogc@longrise.com.cn",
+      "senderMailName":"姚高超",
+      "senderMailPassword": "20141021"
+    },
+    "receiver": [
+      {
+        "name": "姚高超",
+        "email": "yaogc@longrise.com.cn",
+        "level": "10",
+        "role": "admin"
+      },
+      {
+        "name": "张晨璇",
+        "email": "zhangcx@longrise.com.cn",
+        "level": "20",
+        "role": "tester"
+      },
+      {
+        "name": "陈浩然",
+        "email": "chenhr@longrise.com.cn",
+        "level": "30",
+        "role": "product"
+      },
+	  {
+        "name": "姚高超",
+        "email": "yaogc@longrise.com.cn",
+        "level": "30",
+        "role": "product"
+      },
+      {
+        "name": "黄开兵",
+        "email": "huangkb@longrise.com.cn",
+        "level": "40",
+        "role": "develop"
+      }
+    ]
+  },
+  "YXYBB": {
+    "SMTP": {
+      "name": "smtp.longrise.com.cn",
+      "port": "25",
+      "loginname": "",
+      "loginpassword": "xxxxx"
+    },
+    "sender": [
+      {
+        "name": "",
+        "email": "yaogc@longrise.com.cn"
+      }
+    ],
+    "receiver": [
+      {
+        "name": "",
+        "email": "yaogc@longrise.com.cn",
+        "level": "10",
+        "role": "admin"
+      },
+      {
+        "name": "",
+        "email": "",
+        "level": "20",
+        "role": "tester"
+      },
+      {
+        "name": "",
+        "email": "",
+        "level": "30",
+        "role": "product"
+      },
+      {
+        "name": "xxx",
+        "email": "",
+        "level": "40",
+        "role": "develop"
+      }
+    ]
+  }
+}

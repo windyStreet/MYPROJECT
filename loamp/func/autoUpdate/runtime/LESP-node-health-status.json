@@ -1,0 +1,74 @@
+{
+  "nginxrootconf": "xxxxxxxxxxxxxxxxxxx",
+  "upstreamName": "LESP",
+  "nginxreplaceendtag": "###NGINXREPLACE###END###LESP###",
+  "nodeinfo": {
+    "1": {
+      "status": "running",
+      "health-check-url": "http://220.231.252.72:64001/LSIP/restservices/servicecheck/oamp_checkTomcatAvailable/query",
+      "last-response-data": {
+        "status": 1,
+        "msg": "ok",
+        "result": "oamp_checkTomcatAvailable is ok"
+      },
+      "last-response-time": 0.10299999999999999,
+      "upstream-str": "server 127.0.0.1:64001 max_fails=5 fail_timeout=60s weight=1;",
+      "last-response-code": 200,
+      "fail-count": 0,
+      "last-check-time": "2016-12-09 09:44:07",
+      "health-check-data": "{\"service\":\"timeservice\",\"version\":\"1.0.0\"}"
+    },
+    "8": {
+      "status": "running",
+      "health-check-url": "http://220.231.252.72:64002/LSIP/restservices/servicecheck/oamp_checkTomcatAvailable/query",
+      "last-response-data": {
+        "status": 1,
+        "msg": "ok",
+        "result": "oamp_checkTomcatAvailable is ok"
+      },
+      "last-response-time": 0.042999999999999997,
+      "upstream-str": "server 127.0.0.1:64002 max_fails=5 fail_timeout=60s weight=1;",
+      "last-response-code": 200,
+      "fail-count": 0,
+      "last-check-time": "2016-12-09 09:44:07",
+      "health-check-data": "{\"service\":\"timeservice\",\"version\":\"1.0.0\"}"
+    },
+    "3": {
+      "status": "running",
+      "health-check-url": "http://220.231.252.72:64003/LSIP/restservices/servicecheck/oamp_checkTomcatAvailable/query",
+      "last-response-data": {
+        "status": 1,
+        "msg": "ok",
+        "result": "oamp_checkTomcatAvailable is ok"
+      },
+      "last-response-time": 0.040000000000000001,
+      "upstream-str": "server 0.0.0.1:64003 max_fails=5 fail_timeout=60s weight=1;",
+      "last-response-code": 200,
+      "fail-count": 0,
+      "last-check-time": "2016-12-09 09:44:07",
+      "health-check-data": "{\"service\":\"timeservice\",\"version\":\"1.0.0\"}"
+    },
+    "4": {
+      "status": "dead",
+      "health-check-url": "http://220.231.252.72:64005/LSIP/restservices/servicecheck/oamp_checkTomcatAvailable/query",
+      "last-response-data": "n/a",
+      "last-response-time": 1.085,
+      "upstream-str": "server 0.0.0.1:64005 max_fails=5 fail_timeout=60s weight=1;",
+      "last-response-code": 502,
+      "fail-count": 572,
+      "last-check-time": "2016-12-09 09:44:08",
+      "health-check-data": "{\"service\":\"timeservice\",\"version\":\"1.0.0\"}"
+    }
+  },
+  "nginxreloadcmd": "/usr/local/nginx/sbin/nginx -s reload",
+  "nginxConfPath": "C:/Users/Administrator/PycharmProjects/project-auto-update/func\\files\\nginx.conf",
+  "nginxrootstarttag": "###NGINXREPLACE###ROOTSTART###LESP###",
+  "nginxrootendtag": "###NGINXREPLACE###ROOTSTART###LESP###",
+  "currentrun": [
+    "groupmaster",
+    "groupbackup"
+  ],
+  "tomcatstartscriptpath": "tomcatstartscriptpath",
+  "tomcatkillscriptpath": "tomcatkillscriptpath",
+  "nginxreplacestarttag": "###NGINXREPLACE###START###LESP###"
+}
