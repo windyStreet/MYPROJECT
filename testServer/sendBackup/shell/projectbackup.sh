@@ -26,7 +26,8 @@ function incrementalupdate()
 	updateFile=$otherrespath/update.txt
 	if [ -f $updateFile ] ; then
 		#复制lib和ResourceLib文件
-		cat $updateFile | while read linestr
+		#cat $updateFile | while read linestr
+		for  linestr  in  `cat ${updateFile}`
 		do
 			#echo $linestr
 			tmpvar=${linestr#*[}
